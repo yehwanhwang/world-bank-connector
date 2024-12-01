@@ -1,4 +1,4 @@
-code,name,category
-SP.POP.TOTL|Total Population|Health
-NY.GDP.MKTP.CD|GDP (current US$)|Economy & Growth
-SE.PRM.ENRR|School enrollment, primary (% gross)|Education
+code,name,category,featured
+SP.POP.TOTL|Total Population|Health|TRUE
+NY.GDP.MKTP.CD|GDP (current US$)|Economy & Growth|TRUE
+SE.PRM.ENRR|School enrollment, primary (% gross)|Education|FALSE
